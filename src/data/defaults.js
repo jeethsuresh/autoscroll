@@ -4,7 +4,7 @@ var defaults = {
   dragThreshold: 10,
   moveThreshold: 10,
   moveSpeed: 10,
-  stickyScroll: true,
+  stickyScroll: false,
   innerScroll: true,
   scrollOnLinks: false,
   sameSpeed: false,

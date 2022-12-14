@@ -1,3 +1,9 @@
+# This is a HEAVILY modified version of Pauan/AutoScroll, from their chrome extension. Intended only for my personal use, because the original version had a BUNCH of unnecessary stuff in it. 
+
+
+
+
+
 AutoScroll
 ==========
 
